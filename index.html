@@ -1,103 +1,224 @@
-# Privacy Policy – Inglese Shadowing
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Inglese Shadowing</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 20px;
+            line-height: 1.7;
+            color: #333;
+            background-color: #f8f9fa;
+        }
 
-**Last updated:** 25 June 2026
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+        }
 
-This Privacy Policy explains how the mobile application **Inglese Shadowing** (“the App”) collects, uses, and protects user information.
+        h1 {
+            color: #1f2937;
+            border-bottom: 2px solid #e5e7eb;
+            padding-bottom: 12px;
+        }
 
-By using the App, you agree to the practices described in this policy.
+        h2 {
+            color: #2563eb;
+            margin-top: 32px;
+        }
 
-## 1. Information We Collect
+        h3 {
+            color: #374151;
+            margin-top: 24px;
+        }
 
-The App is designed to minimize data collection.
+        ul {
+            padding-left: 24px;
+        }
 
-### Microphone and Voice Data
+        li {
+            margin-bottom: 8px;
+        }
 
-The App may request access to your device microphone to enable pronunciation and speaking practice features.
+        .updated {
+            color: #6b7280;
+            font-style: italic;
+        }
 
-Voice data is used only to compare pronunciation during learning sessions.
+        a {
+            color: #2563eb;
+            text-decoration: none;
+        }
 
-Audio processing is performed locally on the device or through the device’s built-in speech recognition services (such as Google or Samsung speech services).
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy – Inglese Shadowing</h1>
 
-We do **not** store, record, or upload your voice to our own servers.
+        <p class="updated"><strong>Last updated:</strong> 25 June 2026</p>
 
-## 2. Notifications
+        <p>
+            This Privacy Policy explains how the mobile application
+            <strong>Inglese Shadowing</strong> (“the App”) collects, uses,
+            and protects user information.
+        </p>
 
-The App may send local notifications to remind users to complete daily exercises or maintain learning streaks.
+        <p>
+            By using the App, you agree to the practices described in this policy.
+        </p>
 
-Notifications are generated locally on the device.
+        <h2>1. Information We Collect</h2>
 
-No notification-related data is transmitted to our servers.
+        <p>The App is designed to minimize data collection.</p>
 
-## 3. Local Database (SQLite)
+        <h3>Microphone and Voice Data</h3>
 
-The App uses a local SQLite database to store:
+        <p>
+            The App may request access to your device microphone to enable
+            pronunciation and speaking practice features.
+        </p>
 
-* learning progress
-* completed exercises
-* daily streaks
-* saved phrases and lessons
+        <p>
+            Voice data is used only to compare pronunciation during learning sessions.
+        </p>
 
-This information remains stored only on your device.
+        <p>
+            Audio processing is performed locally on the device or through the device’s
+            built-in speech recognition services (such as Google or Samsung speech services).
+        </p>
 
-We do **not** collect or transmit this data to external servers.
+        <p>
+            We do <strong>not</strong> store, record, or upload your voice to our own servers.
+        </p>
 
-## 4. Account and Personal Data
+        <h2>2. Notifications</h2>
 
-Currently, the App does **not** require account registration.
+        <p>
+            The App may send local notifications to remind users to complete daily
+            exercises or maintain learning streaks.
+        </p>
 
-We do **not** collect:
+        <p>Notifications are generated locally on the device.</p>
 
-* email addresses
-* names
-* phone numbers
-* passwords
-* payment information
+        <p>No notification-related data is transmitted to our servers.</p>
 
-## 5. Internet Usage
+        <h2>3. Local Database (SQLite)</h2>
 
-The App may access the internet only when necessary for system-level services such as:
+        <p>The App uses a local SQLite database to store:</p>
 
-* text-to-speech (TTS)
-* speech recognition services provided by the device manufacturer
-* downloading optional learning content or updates
+        <ul>
+            <li>learning progress</li>
+            <li>completed exercises</li>
+            <li>daily streaks</li>
+            <li>saved phrases and lessons</li>
+        </ul>
 
-The App does not use its own backend servers to store personal data.
+        <p>This information remains stored only on your device.</p>
 
-## 6. Third-Party Services
+        <p>
+            We do <strong>not</strong> collect or transmit this data to external servers.
+        </p>
 
-The App may rely on third-party services provided by your device or operating system, such as:
+        <h2>4. Account and Personal Data</h2>
 
-* Google Speech Services
-* Android Text-to-Speech Engine
-* Samsung Voice Services
+        <p>Currently, the App does <strong>not</strong> require account registration.</p>
 
-These services may have their own privacy policies.
+        <p>We do <strong>not</strong> collect:</p>
 
-We encourage users to review the privacy policies of those providers.
+        <ul>
+            <li>email addresses</li>
+            <li>names</li>
+            <li>phone numbers</li>
+            <li>passwords</li>
+            <li>payment information</li>
+        </ul>
 
-## 7. Data Security
+        <h2>5. Internet Usage</h2>
 
-Because user data is stored locally on the device, security depends partly on the security of your device.
+        <p>
+            The App may access the internet only when necessary for system-level services such as:
+        </p>
 
-We recommend keeping your device protected with:
+        <ul>
+            <li>text-to-speech (TTS)</li>
+            <li>speech recognition services provided by the device manufacturer</li>
+            <li>downloading optional learning content or updates</li>
+        </ul>
 
-* screen lock
-* biometric authentication
-* operating system updates
+        <p>
+            The App does not use its own backend servers to store personal data.
+        </p>
 
-## 8. Children’s Privacy
+        <h2>6. Third-Party Services</h2>
 
-The App does not knowingly collect personal information from children under 13.
+        <p>
+            The App may rely on third-party services provided by your device or operating system, such as:
+        </p>
 
-## 9. Changes to This Privacy Policy
+        <ul>
+            <li>Google Speech Services</li>
+            <li>Android Text-to-Speech Engine</li>
+            <li>Samsung Voice Services</li>
+        </ul>
 
-We may update this Privacy Policy from time to time.
+        <p>These services may have their own privacy policies.</p>
 
-Changes will be published on this page with an updated revision date.
+        <p>
+            We encourage users to review the privacy policies of those providers.
+        </p>
 
-## 10. Contact
+        <h2>7. Data Security</h2>
 
-If you have questions regarding this Privacy Policy, you may contact:
+        <p>
+            Because user data is stored locally on the device, security depends partly
+            on the security of your device.
+        </p>
 
-**DabliuTech**
-Email: [support@dabliutech.com](mailto:support@dabliutech.com)
+        <p>We recommend keeping your device protected with:</p>
+
+        <ul>
+            <li>screen lock</li>
+            <li>biometric authentication</li>
+            <li>operating system updates</li>
+        </ul>
+
+        <h2>8. Children’s Privacy</h2>
+
+        <p>
+            The App does not knowingly collect personal information from children under 13.
+        </p>
+
+        <h2>9. Changes to This Privacy Policy</h2>
+
+        <p>
+            We may update this Privacy Policy from time to time.
+        </p>
+
+        <p>
+            Changes will be published on this page with an updated revision date.
+        </p>
+
+        <h2>10. Contact</h2>
+
+        <p>If you have questions regarding this Privacy Policy, you may contact:</p>
+
+        <p>
+            <strong>DabliuTech</strong><br>
+            Email:
+            <a href="mailto:support@dabliutech.com">support@dabliutech.com</a>
+        </p>
+    </div>
+</body>
+</html>
+```
